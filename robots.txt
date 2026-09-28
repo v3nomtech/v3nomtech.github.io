@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# internal stuff, crawlers please keep out
+Disallow: /v4ult-7f3a.txt
